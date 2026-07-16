@@ -35,7 +35,7 @@ def format_output(result):
         output.append(f"**Stack:** {result['stack']} | **Query:** {result['query']}")
     elif result.get("domains"):
         output.append(f"## UI UX CR Multi-Domain Search")
-        output.append(f"**Domains:** {', '.join(result['domains'])} | **Query:** {result['query']}")
+        output.append(f"**Domains:** {', '.join(result['domains'])} | **Query:** {result.get('query', 'N/A')}")
     else:
         output.append(f"## UI UX CR Search Results")
         output.append(f"**Domain:** {result['domain']} | **Query:** {result['query']}")
@@ -75,7 +75,8 @@ def analyze_project(query):
     output.append(f"**Query:** {query}")
     output.append("")
 
-    for domain, result in results.items():
+    search_results = results.get("results", {})
+    for domain, result in search_results.items():
         results_list = result.get("results", [])
         if results_list:
             output.append(f"### {domain.upper()} Recommendations")

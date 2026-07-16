@@ -359,4 +359,4 @@ def multi_search(query, domains=None, max_results=MAX_RESULTS):
     results = {}
     for domain in domains:
         results[domain] = search(query, domain, max_results)
-    return results
+    return {"query": query, "results": results}
