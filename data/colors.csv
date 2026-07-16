@@ -1,0 +1,31 @@
+No,Product Type,Primary (Hex),Secondary (Hex),CTA (Hex),Background (Hex),Text (Hex),Border (Hex),Notes
+1,SaaS (General),#2563EB,#3B82F6,#F97316,#F8FAFC,#1E293B,#E2E8F0,Trust blue + orange CTA contrast
+2,Micro SaaS,#6366F1,#818CF8,#10B981,#F5F3FF,#1E1B4B,#E0E7FF,Indigo primary + emerald CTA
+3,E-commerce,#059669,#10B981,#F97316,#ECFDF5,#064E3B,#A7F3D0,Success green + urgency orange
+4,E-commerce Luxury,#1C1917,#44403C,#CA8A04,#FAFAF9,#0C0A09,#D6D3D1,Premium dark + gold accent
+5,Service Landing Page,#0EA5E9,#38BDF8,#F97316,#F0F9FF,#0C4A6E,#BAE6FD,Sky blue trust + warm CTA
+6,B2B Service,#0F172A,#334155,#0369A1,#F8FAFC,#020617,#E2E8F0,Professional navy + blue CTA
+7,Financial Dashboard,#0F172A,#1E293B,#22C55E,#020617,#F8FAFC,#334155,Dark bg + green positive indicators
+8,Analytics Dashboard,#1E40AF,#3B82F6,#F59E0B,#F8FAFC,#1E3A8A,#DBEAFE,Blue data + amber highlights
+9,Healthcare App,#0891B2,#22D3EE,#059669,#ECFEFF,#164E63,#A5F3FC,Calm cyan + health green
+10,Educational App,#7C3AED,#A78BFA,#F59E0B,#FAF5FF,#4C1D95,#DDD6FE,Purple creativity + amber engagement
+11,Creative Agency,#EC4899,#F472B6,#8B5CF6,#FDF2F8,#831843,#FBCFE8,Pink creativity + violet accent
+12,Portfolio/Personal,#1F2937,#4B5563,#059669,#F9FAFB,#111827,#D1D5DB,Neutral professional + green CTA
+13,Gaming,#7C3AED,#A78BFA,#EF4444,#0F0A1A,#F8FAFC,#2E1065,Neon purple + red action
+14,Government/Public,#1E40AF,#3B82F6,#2563EB,#EFF6FF,#1E3A8A,#BFDBFE,Trust blue + professional
+15,Fintech/Crypto,#0F172A,#1E293B,#22C55E,#020617,#F8FAFC,#334155,Dark tech + green positive
+16,Social Media App,#EC4899,#F472B6,#8B5CF6,#FDF2F8,#831843,#FBCFE8,Vibrant pink + purple engagement
+17,Productivity Tool,#0EA5E9,#38BDF8,#10B981,#F0F9FF,#0C4A6E,#BAE6FD,Sky blue + emerald success
+18,Design System,#1F2937,#4B5563,#059669,#F9FAFB,#111827,#D1D5DB,Professional neutral + green
+19,AI/Chatbot Platform,#6366F1,#818CF8,#10B981,#F5F3FF,#1E1B4B,#E0E7FF,AI purple + emerald action
+20,NFT/Web3 Platform,#0F172A,#1E293B,#FFD700,#020617,#F8FAFC,#334155,Dark + gold premium accent
+21,Cybersecurity Platform,#DC2626,#EF4444,#2563EB,#0F0A0A,#FEF2F2,#450A0A,Red alerts + trust blue
+22,Real Estate Platform,#1E40AF,#3B82F6,#D97706,#EFF6FF,#1E3A8A,#BFDBFE,Trust blue + warm amber
+23,Food Delivery App,#EF4444,#F87171,#F97316,#FFF7ED,#7F1D1D,#FED7AA,Warm red/orange appetite colors
+24,Travel Platform,#0EA5E9,#38BDF8,#F97316,#F0F9FF,#0C4A6E,#BAE6FD,Sky blue + warm adventure
+25,Crypto Exchange,#0F172A,#1E293B,#22C55E,#020617,#F8FAFC,#334155,Dark + green trading positive
+26,Music Platform,#1F2937,#4B5563,#EC4899,#0F0A0A,#F8FAFC,#374151,Dark + vibrant pink
+27,Health & Fitness App,#0891B2,#22D3EE,#059669,#ECFEFF,#164E63,#A5F3FC,Calm cyan + health green
+28,Legal/Compliance,#1E40AF,#3B82F6,#0369A1,#EFF6FF,#1E3A8A,#BFDBFE,Professional blue + trust
+29,E-learning Platform,#7C3AED,#A78BFA,#F59E0B,#FAF5FF,#4C1D95,#DDD6FE,Creative purple + amber
+30,Healthcare Analytics Dashboard,#0F172A,#1E293B,#22C55E,#020617,#F8FAFC,#334155,Dark bg + health green alerts
