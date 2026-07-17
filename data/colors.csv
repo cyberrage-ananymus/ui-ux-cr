@@ -1,5 +1,5 @@
 No,Product Type,Primary (Hex),Secondary (Hex),CTA (Hex),Background (Hex),Text (Hex),Border (Hex),Notes
-1,SaaS (General),#2563EB,#3B82F6,#F97316,#F8FAFC,#1E293B,#E2E8F0,Trust blue + orange CTA contrast
+1,SaaS (General),#2563EB,#3B82F6,#F97316,#F8FAFC,#1E293B,#E2E8F0,Trust blue + orange CTA
 2,Micro SaaS,#6366F1,#818CF8,#10B981,#F5F3FF,#1E1B4B,#E0E7FF,Indigo primary + emerald CTA
 3,E-commerce,#059669,#10B981,#F97316,#ECFDF5,#064E3B,#A7F3D0,Success green + urgency orange
 4,E-commerce Luxury,#1C1917,#44403C,#CA8A04,#FAFAF9,#0C0A09,#D6D3D1,Premium dark + gold accent
@@ -29,3 +29,33 @@ No,Product Type,Primary (Hex),Secondary (Hex),CTA (Hex),Background (Hex),Text (H
 28,Legal/Compliance,#1E40AF,#3B82F6,#0369A1,#EFF6FF,#1E3A8A,#BFDBFE,Professional blue + trust
 29,E-learning Platform,#7C3AED,#A78BFA,#F59E0B,#FAF5FF,#4C1D95,#DDD6FE,Creative purple + amber
 30,Healthcare Analytics Dashboard,#0F172A,#1E293B,#22C55E,#020617,#F8FAFC,#334155,Dark bg + health green alerts
+31,Fashion/E-commerce,#0F172A,#1E293B,#EC4899,#FAFAF9,#0C0A09,#E7E5E4,Dark + pink fashion accent
+32,Restaurant/Food,#92400E,#D97706,#DC2626,#FFFBEB,#451A03,#FDE68A,Warm brown + red appetite
+33,Wedding/Events,#BE185D,#EC4899,#7C3AED,#FDF2F8,#831843,#FBCFE8,Romantic pink + purple
+34,Sports/Fitness,#111827,#374151,#EF4444,#F9FAFB,#030712,#D1D5DB,Dark + energetic red
+35,Photography Portfolio,#18181B,#27272A,#F59E0B,#09090B,#FAFAFA,#27272A,Dark cinematic + gold
+36,Podcast/Audio,#1E1B4B,#312E81,#8B5CF6,#FAF5FF,#312E81,#C7D2FE,Deep purple + violet
+37,Charity/Non-Profit,#047857,#059669,#F59E0B,#ECFDF5,#064E3B,#A7F3D0,Trust green + amber hope
+38,Architecture/Interior,#292524,#57534E,#CA8A04,#FAFAF9,#1C1917,#D6D3D1,Stone neutral + gold accent
+39,Barber/Beauty,#1C1917,#44403C,#CA8A04,#FAFAF9,#0C0A09,#D6D3D1,Dark luxury + gold premium
+40,DJ/Music Artist,#0F0A1A,#1A0A2E,#FF006E,#050208,#F8FAFC,#2E1065,Cyberpunk neon + hot pink
+41,Pet Store/App,#059669,#10B981,#F97316,#ECFDF5,#064E3B,#A7F3D0,Friendly green + warm orange
+42,Car/Automotive,#111827,#374151,#DC2626,#F9FAFB,#030712,#D1D5DB,Dark professional + red power
+43,Flower/Plant Shop,#059669,#34D399,#DB2777,#ECFDF5,#064E3B,#A7F3D0,Natural green + pink bloom
+44,Wine/Bar,#7C2D12,#9A3412,#CA8A04,#FFFBEB,#431407,#FED7AA,Burgundy + gold premium
+45,Spa/Wellness,#0891B2,#67E8F9,#F59E0B,#ECFEFF,#164E63,#A5F3FC,Calm aqua + gold tranquility
+46,Coffee Shop,#78350F,#92400E,#D97706,#FFFBEB,#451A03,#FDE68A,Coffee brown + amber warmth
+47,Music Festival,#581C87,#7C3AED,#F59E0B,#FAF5FF,#3B0764,#C4B5FD,Purple + gold festival energy
+48,Gym/Fitness Center,#111827,#1F2937,#EF4444,#F9FAFB,#030712,#E5E7EB,Dark power + red intensity
+49,Bookstore/Library,#1E293B,#334155,#0369A1,#F8FAFC,#0F172A,#CBD5E1,Deep navy + blue knowledge
+50,Kids/Education,#7C3AED,#A78BFA,#F59E0B,#FAF5FF,#4C1D95,#DDD6FE,Purple creativity + amber fun
+51,Wedding Planner,#BE185D,#F472B6,#7C3AED,#FDF2F8,#831843,#FBCFE8,Romantic pink + violet
+52,Craft/DIY,#059669,#34D399,#F97316,#ECFDF5,#064E3B,#A7F3D0,Craft green + creative orange
+53,Yoga/Meditation,#0891B2,#67E8F9,#059669,#ECFEFF,#164E63,#A5F3FC,Peaceful aqua + healing green
+54,Pet Grooming,#F59E0B,#FBBF24,#059669,#FFFBEB,#78350F,#FDE68A,Warm amber + friendly green
+55,Event Planning,#581C87,#8B5CF6,#F59E0B,#FAF5FF,#3B0764,#C4B5FD,Purple elegance + gold
+56,Photography Studio,#18181B,#3F3F46,#F59E0B,#09090B,#FAFAFA,#27272A,Dark cinematic + gold
+57,Fashion Boutique,#0F172A,#1E293B,#EC4899,#FAFAF9,#0C0A09,#E7E5E4,Elegant dark + pink accent
+58,Art Gallery,#18181B,#27272A,#EAB308,#09090B,#FAFAFA,#27272A,Dark gallery + gold highlight
+59,Travel Agency,#0EA5E9,#38BDF8,#F97316,#F0F9FF,#0C4A6E,#BAE6FD,Sky blue + adventure orange
+60,Real Estate Agent,#1E40AF,#3B82F6,#D97706,#EFF6FF,#1E3A8A,#BFDBFE,Trust blue + warm amber
