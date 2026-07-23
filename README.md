@@ -1,4 +1,3 @@
-# ui-ux-cr
 <p align="center">
   <img src="https://img.shields.io/badge/UI_UX_CR-Cyber--Rage-FF006E?style=for-the-badge&logo=cyber&logoColor=white" alt="UI UX CR">
 </p>
@@ -7,17 +6,20 @@
 
 <p align="center">
   <strong>Ultra-premium design intelligence system for AI assistants</strong><br>
-  Enhanced BM25 search, fuzzy matching, color theory engine, component library, animations, responsive patterns, and design tokens.
+  Enhanced BM25 search, fuzzy matching, color theory engine, component library, animations, responsive patterns, design tokens, and 45+ backgrounds.
 </p>
 
 <p align="center">
-  <a href="https://github.com/cyberrage-ananymus/ui-ux-cr/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/cyberrage-ananymus/ui-ux-cr/releases"><img src="https://img.shields.io/badge/version-1.1.0-blue?style=flat-square" alt="Version"></a>
   <a href="https://github.com/cyberrage-ananymus/ui-ux-cr/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/styles-25+-purple?style=flat-square" alt="Styles">
-  <img src="https://img.shields.io/badge/colors-30+-orange?style=flat-square" alt="Colors">
-  <img src="https://img.shields.io/badge/components-25+-cyan?style=flat-square" alt="Components">
-  <img src="https://img.shields.io/badge/animations-20+-pink?style=flat-square" alt="Animations">
+  <img src="https://img.shields.io/badge/fonts-60+-purple?style=flat-square" alt="Fonts">
+  <img src="https://img.shields.io/badge/colors-60+-orange?style=flat-square" alt="Colors">
+  <img src="https://img.shields.io/badge/styles-31+-blue?style=flat-square" alt="Styles">
+  <img src="https://img.shields.io/badge/backgrounds-45+-green?style=flat-square" alt="Backgrounds">
+  <img src="https://img.shields.io/badge/animations-30+-pink?style=flat-square" alt="Animations">
+  <img src="https://img.shields.io/badge/components-30+-cyan?style=flat-square" alt="Components">
+  <img src="https://img.shields.io/badge/tokens-70+-yellow?style=flat-square" alt="Tokens">
 </p>
 
 <p align="center">
@@ -37,8 +39,9 @@
 
 - **Enhanced BM25 Search Engine** with fuzzy matching and synonym expansion
 - **Color Theory Engine** for generating harmonious palettes
-- **Component Library** with 25+ pre-built recommendations
-- **Animation Database** with 20+ patterns and CSS code
+- **Component Library** with 30+ pre-built recommendations
+- **Animation Database** with 30+ patterns and CSS code
+- **Background Library** with 45+ gradients, patterns, and effects
 - **Responsive Patterns** for mobile-first design
 - **Design Tokens** for consistent theming
 
@@ -49,27 +52,29 @@
 | Feature | Description |
 |---------|-------------|
 | **Enhanced BM25 Search** | Fuzzy matching, synonym expansion, semantic understanding |
-| **Design System Generator** | Complete design systems with pattern, style, colors, typography |
+| **Design System Generator** | Complete design systems with pattern, style, colors, typography, backgrounds |
 | **Color Theory Engine** | Extended palette generation (50-900 shades), color harmonies |
-| **Component Library** | 25+ components with CSS/Tailwind code and accessibility |
-| **Animation Database** | 20+ animations with duration, easing, GPU optimization |
-| **Responsive Patterns** | 15+ mobile-first responsive design patterns |
-| **Design Tokens** | 50+ token categories for consistent theming |
+| **Component Library** | 30+ components with CSS/Tailwind code and accessibility |
+| **Animation Database** | 30+ animations with duration, easing, GPU optimization |
+| **Background Library** | 45+ backgrounds: gradients, patterns, effects, animated backgrounds |
+| **Responsive Patterns** | 20+ mobile-first responsive design patterns |
+| **Design Tokens** | 70+ token categories for consistent theming |
 
 ### Data Coverage
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| UI Styles | 25+ | Glassmorphism, Minimalism, Dark Mode, Cyberpunk, etc. |
-| Product Types | 30 | SaaS, E-commerce, Healthcare, Gaming, etc. |
-| Color Palettes | 30 | Industry-specific palettes with hex values |
-| Font Pairings | 20 | Curated typography combinations |
-| Chart Types | 20 | Data visualization recommendations |
-| Landing Page Patterns | 20 | Conversion-optimized page structures |
-| Components | 25+ | Buttons, Cards, Modals, Forms, etc. |
-| Animations | 20 | Hover, Entrance, Scroll, Loading, etc. |
-| Responsive Patterns | 15 | Mobile-first, Grid, Typography, etc. |
-| Design Tokens | 50+ | Colors, Spacing, Typography, Shadows, etc. |
+| UI Styles | 31 | Glassmorphism, Minimalism, Dark Mode, Cyberpunk, Crystal UI, etc. |
+| Product Types | 50 | SaaS, E-commerce, Healthcare, Gaming, Wedding, Restaurant, etc. |
+| Color Palettes | 60 | Industry-specific palettes with hex values |
+| Font Pairings | 60 | Curated typography combinations (Google Fonts + Fontshare) |
+| Chart Types | 25 | Data visualization recommendations |
+| Landing Page Patterns | 30 | Conversion-optimized page structures |
+| Components | 30 | Buttons, Cards, Modals, Forms, etc. |
+| Animations | 30 | Hover, Entrance, Scroll, Loading, 3D, Cyberpunk, etc. |
+| Backgrounds | 45 | Gradients, Patterns, Effects, Animated backgrounds |
+| Responsive Patterns | 20 | Mobile-first, Grid, Typography, etc. |
+| Design Tokens | 70 | Colors, Spacing, Typography, Shadows, etc. |
 | Tech Stacks | 16 | React, Next.js, Vue, Flutter, SwiftUI, etc. |
 
 ## Installation
@@ -301,14 +306,17 @@ Before delivering UI code, verify:
 
 ## Why UI UX CR is Better
 
-| Feature | ui-ux-pro-max | UI UX CR |
-|---------|---------------|----------|
+| Feature | ui-ux-pro-max | UI UX CR v1.1 |
+|---------|---------------|---------------|
 | Search Engine | Basic BM25 | Enhanced BM25 + Fuzzy + Synonyms |
 | Color Theory | Basic palettes | Extended palette generation (50-900) |
-| Components | None | 25+ with CSS/Tailwind |
-| Animations | None | 20+ with code |
-| Responsive | Basic | 15+ patterns |
-| Design Tokens | Basic | 50+ categories |
+| Fonts | 74 | 60+ premium fonts (Google Fonts + Fontshare) |
+| Components | None | 30+ with CSS/Tailwind |
+| Animations | None | 30+ with code |
+| Backgrounds | None | 45+ (gradients, patterns, effects, animated) |
+| Responsive | Basic | 20+ patterns |
+| Design Tokens | Basic | 70+ categories |
+| Emojis | Used in output | No emojis - clean output |
 | Analysis | Single domain | Multi-domain analysis |
 
 ## Contributing
